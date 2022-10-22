@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.home-welcome {
+  font-size: 5rem;
+  color: #5E63B6;
+}
+.home-hello {
+  color: #5E63B6
+}
+
+.home-login-div {
+  margin-bottom: 1rem;
+}
+
+.home-sign-up-div {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.home-buttons {
+  text-align: center;
+  padding-top: 10%;
+} 

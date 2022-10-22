@@ -1,6 +1,5 @@
 ﻿using FrontFinanceBackend.Models;
 using FrontFinanceBackend.Services;
-using InternshipBackend.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.IdentityModel.Tokens.Jwt;
@@ -9,14 +8,14 @@ namespace FrontFinanceBackend.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class AuthenticateController : ControllerBase
+    public class AuthenticationController : ControllerBase
     {
         private readonly UserManager<FrontUser> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly IUserService _userService;
 
         [ActivatorUtilitiesConstructor]
-        public AuthenticateController(IUserService userService, UserManager<FrontUser> userManager, RoleManager<IdentityRole> roleManager)
+        public AuthenticationController(IUserService userService, UserManager<FrontUser> userManager, RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
             _roleManager = roleManager;
@@ -104,20 +103,21 @@ namespace FrontFinanceBackend.Controllers
         }
 
 
-        //[HttpGet]
-        //[Route("get-authenticated-user")]
-        //public async Task<ActionResult> getAuthenticatedUserByTokenAsync()
-        //{
-        //    String email = User.FindFirst("Email")?.Value;
-        //    if (email == null)
-        //        return null;
+        [HttpGet]
+        [Route("get-authenticated-user")]
+        public async Task<ActionResult> getAuthenticatedUserByTokenAsync()
+        {
+            String email = User.FindFirst("Email")?.Value;
+            if (email == null)
+                return null;
 
-        //    AcademicUser user = await _userManager.FindByNameAsync(email);
-        //    if (user == null)
-        //        return null;
-        //    UserDTO userDTO = new UserDTO(user);
+            FrontUser user = await _userManager.FindByNameAsync(email);
+            if (user == null)
+                return null;
 
-        //    return StatusCode(200, userDTO);
-        //}
+            UserDto userDTO = new UserDto(user);
+
+            return StatusCode(200, userDTO);
+        }
     }
 }

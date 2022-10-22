@@ -1,5 +1,4 @@
 ﻿using FrontFinanceBackend.Models;
-using InternshipBackend.Data;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 

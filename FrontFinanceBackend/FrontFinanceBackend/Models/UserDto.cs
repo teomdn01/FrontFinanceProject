@@ -1,7 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
-namespace InternshipBackend.Data
+namespace FrontFinanceBackend.Models
 {
     public class UserDto
     {
@@ -18,5 +17,15 @@ namespace InternshipBackend.Data
 
         [Required(ErrorMessage = "Lastname is required")]
         public string? LastName { get; set; }
+        public UserDto()
+        {
+
+        }
+        public UserDto(FrontUser user)
+        {
+            this.Email = user.Email;
+            this.FirstName = user.FirstName;
+            this.LastName = user.LastName;
+        }
     }
 }
