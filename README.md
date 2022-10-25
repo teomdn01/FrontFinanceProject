@@ -28,5 +28,5 @@
 - Daily
 ![Performance Daily Page](https://github.com/teomdn01/FrontFinanceProject/blob/main/images/perf-daily.png)
 - Hourly
-![Performance Hourly Page 1](https://github.com/teomdn01/FrontFinanceProject/blob/main/images/perf-hourly-1.png)
 ![Performance Hourly Page 2](https://github.com/teomdn01/FrontFinanceProject/blob/main/images/perf-hourly-2.png)
+![Performance Hourly Page 1](https://github.com/teomdn01/FrontFinanceProject/blob/main/images/perf-hourly-1.png)
