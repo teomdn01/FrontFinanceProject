@@ -100,7 +100,7 @@ function getSpyAndSymbolData(timeFrame, setSpyDataSet, setLabels, symbol, setSto
     response.forEach((elem) => {
       stockData.push(elem.performance - 100);
       let date = new Date(elem.timestamp);
-      newLabels.push(date.getUTCMonth() + "/" + date.getUTCDate() + " " + date.getHours() + ":00");
+      newLabels.push(date.getUTCMonth() + 1 + "/" + date.getUTCDate() + " " + date.getHours() + ":00");
       newDates.push(date.getTime());
     });
 
