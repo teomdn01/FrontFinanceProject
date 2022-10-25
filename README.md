@@ -21,7 +21,7 @@
 ![Login Page](https://github.com/teomdn01/FrontFinanceProject/blob/main/images/login.png)
 ### Stock Data using CandleStick Chart
 - Daily
-![Candle Daily Page](https://github.com/teomdn01/FrontFinanceProject/blob/main/images/candle-daily.png)
+![Candle Daily Page](https://github.com/teomdn01/FrontFinanceProject/blob/main/images/candle-daily-1.png)
 - Hourly
 ![Candle Hourly Page](https://github.com/teomdn01/FrontFinanceProject/blob/main/images/candle-hourly.png)
 ### Performance comparison stock item vs S&P 500
