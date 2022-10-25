@@ -12,17 +12,18 @@ namespace FrontFinanceBackend.Controllers
     public class MarketController : ControllerBase
     {
         private readonly IUserService _userService;
-        private readonly IStockDataService _stockDataService;
+        private readonly IMarketService _stockDataService;
         private const string API_KEY = "AKRYX1QT8KS5542V3ZJT";
         private const string SECRET_KEY = "aMBacFhzkZVECXUZs5djugAuYGBVc4hNvywvsF8v";
         private IAlpacaDataClient alpacaDataClient;
 
-        public MarketController(IUserService userService, IStockDataService stockDataService)
+        public MarketController(IUserService userService, IMarketService stockDataService)
         {
             this._userService = userService;
             this._stockDataService = stockDataService;
             alpacaDataClient = Environments.Paper.GetAlpacaDataClient(new SecretKey(API_KEY, SECRET_KEY));
         }
+
         private async Task<StockDataDto> GetDataFromApi(string symbol, Timeframe timeframe, BarTimeFrame barTimeFrame, DateTime into, DateTime from)
         {
             var barSet = await alpacaDataClient.ListHistoricalBarsAsync(
@@ -112,7 +113,7 @@ namespace FrontFinanceBackend.Controllers
             }
 
             StockDataDto currentStock = null;
-            //we call the Alpaca API if we do not store information about the given symbol or if it is older than 1 hour
+            //we call the Alpaca API if we do not already store information about the given symbol or if it is older than 1 hour
             if (difference == -1 || difference > 3600000)
             {
                 currentStock = await GetDataFromApi(symbol, timeframe, barTimeFrame, into, from);

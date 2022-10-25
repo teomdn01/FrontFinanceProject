@@ -3,12 +3,12 @@ using FrontFinanceBackend.Repository;
 
 namespace FrontFinanceBackend.Services
 {
-    public class StockDataService : IStockDataService
+    public class MarketService : IMarketService
     {
         private readonly IStockDataRepo stockDataRepo;
         private readonly IStockBarRepo stockBarRepo;
 
-        public StockDataService(IStockDataRepo stockDataRepo, IStockBarRepo stockBarRepo)
+        public MarketService(IStockDataRepo stockDataRepo, IStockBarRepo stockBarRepo)
         {
             this.stockDataRepo = stockDataRepo;
             this.stockBarRepo = stockBarRepo;

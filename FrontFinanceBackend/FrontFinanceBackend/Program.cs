@@ -21,7 +21,7 @@ builder.Services.AddScoped<IUserRepo, UserRepo>();
 builder.Services.AddScoped<IStockDataRepo, StockDataRepo>();
 builder.Services.AddScoped<IStockBarRepo, StockBarRepo>();
 builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<IStockDataService, StockDataService>();
+builder.Services.AddScoped<IMarketService, MarketService>();
 
 builder.Services.AddControllers().AddNewtonsoftJson();
 

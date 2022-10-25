@@ -2,7 +2,7 @@
 
 namespace FrontFinanceBackend.Services
 {
-    public interface IStockDataService
+    public interface IMarketService
     {
         public Task<List<StockDataDto>> GetAll();
         public StockData? GetById(int guid);
