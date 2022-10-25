@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UwTR6jya+lmTNIiXHrcuYRIVJJ+xHBYcd4U0xUBxx1fhcUUrQg1zxggD3aCehrx2Pmm40AN4fOT/rmEjlSu7bg==",
+  "dgSpecHash": "FPQXorxewJxlJvfnWHbTJF4HGyWbOXpjutH04cisnRAUpi8o3KLnR//V2Llhw8L8aO888aaAmR5GHuVtjI7nmg==",
   "success": true,
   "projectFilePath": "D:\\semester-5\\FrontFinance\\FrontFinanceProject\\FrontFinanceBackend\\FrontFinanceBackend\\FrontFinanceBackend.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\teo\\.nuget\\packages\\alpaca.markets\\6.1.5\\alpaca.markets.6.1.5.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.10\\microsoft.aspnetcore.authentication.jwtbearer.6.0.10.nupkg.sha512",
@@ -48,6 +49,7 @@
     "C:\\Users\\teo\\.nuget\\packages\\myvas.extensions.configuration.entityframeworkcore\\2.0.0\\myvas.extensions.configuration.entityframeworkcore.2.0.0.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\teo\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
@@ -64,6 +66,7 @@
     "C:\\Users\\teo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\teo\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\teo\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",

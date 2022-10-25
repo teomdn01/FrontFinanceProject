@@ -9,16 +9,18 @@ import "bootstrap/dist/js/bootstrap.min.js";
 import { useEffect, useState } from 'react';
 import AuthenticationController from './controller/AuthenticationController';
 import Logout from './components/authentication/Logout';
+import StockData from './components/StockData';
+import PerformanceData from './components/PerformanceData';
 
 function App() {
   const [user, setUser] = useState();
+
   useEffect(() => {
     AuthenticationController.getUser().then((response) => {
       setUser(response);
-      console.log("GLOBAL USER", response)
+      console.log("GLOBAL USER", response);
     });
-
-  } ,[]);
+  }, []);
 
   return (
     <div className="App">
@@ -26,7 +28,9 @@ function App() {
       <Route path='/home' component={() => <Home user={user} />} />
       <Route path='/login' component={Login} />
       <Route path='/signup' component={Signup} />
-      <Route path="/logout" component={Logout} />
+      <Route path='/logout' component={Logout} /> 
+      <Route path='/stock-data' component={StockData} />
+      <Route path='/performance' component={PerformanceData} />
     </div>
   );
 }

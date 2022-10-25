@@ -1,6 +1,7 @@
 ﻿using FrontFinanceBackend.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace FrontFinanceBackend.Config
 {
@@ -16,6 +17,8 @@ namespace FrontFinanceBackend.Config
         }
 
         public virtual DbSet<FrontUser> FrontUsers { get; set; } = null!;
+        public virtual DbSet<StockBar> StockBars { get; set; } = null!;
+        public virtual DbSet<StockData> StockData { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -29,6 +32,24 @@ namespace FrontFinanceBackend.Config
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<StockBar>(StockBarConfigure);
+        }
+
+        public void StockDataConfigure(EntityTypeBuilder<StockData> builder)
+        {
+            builder.Property(data => data.Id)
+                .ValueGeneratedOnAdd();
+        }
+
+        public void StockBarConfigure(EntityTypeBuilder<StockBar> builder)
+        {
+            builder.Property(bar => bar.Id)
+                .ValueGeneratedOnAdd();
+
+            builder.HasOne(child => child.StockData)
+                .WithMany(parent => parent.Bars)
+                .HasForeignKey(child => child.StockId)
+                .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

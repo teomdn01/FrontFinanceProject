@@ -81,3 +81,6 @@ D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceB
 D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.csproj.CopyComplete
+D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Alpaca.Markets.dll
+D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Polly.dll
+D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.IO.Pipelines.dll

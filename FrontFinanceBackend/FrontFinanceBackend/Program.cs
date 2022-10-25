@@ -18,7 +18,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IUserRepo, UserRepo>();
+builder.Services.AddScoped<IStockDataRepo, StockDataRepo>();
+builder.Services.AddScoped<IStockBarRepo, StockBarRepo>();
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IStockDataService, StockDataService>();
+
 builder.Services.AddControllers().AddNewtonsoftJson();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(

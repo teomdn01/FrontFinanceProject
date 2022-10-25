@@ -24,6 +24,16 @@ export const MenuItemsLoggedIn = [
         cName: 'nav-links'
     },
     {
+        title: 'Stock History',
+        url: '/stock-data',
+        cName: 'nav-links'
+    },
+    {
+        title: 'Performance Comparison',
+        url: '/performance',
+        cName: 'nav-links'
+    },
+    {
         title: 'Logout',
         url: '/logout',
         cName: 'nav-links'
