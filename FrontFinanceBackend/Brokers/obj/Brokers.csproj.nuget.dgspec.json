@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Brokers\\Brokers.csproj": {}
+  },
+  "projects": {
+    "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Brokers\\Brokers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Brokers\\Brokers.csproj",
+        "projectName": "Brokers",
+        "projectPath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Brokers\\Brokers.csproj",
+        "packagesPath": "C:\\Users\\teo\\.nuget\\packages\\",
+        "outputPath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Brokers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\Core.csproj": {
+                "projectPath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\teo\\.nuget\\packages\\",
+        "outputPath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

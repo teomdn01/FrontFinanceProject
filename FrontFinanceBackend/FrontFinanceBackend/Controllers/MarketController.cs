@@ -1,6 +1,8 @@
 ﻿using FrontFinanceBackend.Services;
 using Microsoft.AspNetCore.Mvc;
 using Alpaca.Markets;
+using Brokers.InteractiveBrokers.Models;
+using Core.Models.MarketData;
 using Environments = Alpaca.Markets.Environments;
 using FrontFinanceBackend.Models;
 using Microsoft.AspNetCore.Authorization;
@@ -8,6 +10,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace FrontFinanceBackend.Controllers
 {
     [Route("api/[controller]")]
+    //[Authorize]
     [ApiController]
     public class MarketController : ControllerBase
     {
@@ -16,6 +19,7 @@ namespace FrontFinanceBackend.Controllers
         private const string API_KEY = "AKRYX1QT8KS5542V3ZJT";
         private const string SECRET_KEY = "aMBacFhzkZVECXUZs5djugAuYGBVc4hNvywvsF8v";
         private IAlpacaDataClient alpacaDataClient;
+        
 
         public MarketController(IUserService userService, IMarketService stockDataService)
         {
@@ -41,7 +45,6 @@ namespace FrontFinanceBackend.Controllers
         }
 
         [HttpGet]
-        [Authorize]
         [Route("{symbol}/{timeframe}")]
         public async Task<StockDataDto> getDataAsync(string symbol, Timeframe timeframe)
         {
@@ -84,7 +87,6 @@ namespace FrontFinanceBackend.Controllers
         }
 
         [HttpGet]
-        [Authorize]
         [Route("comparison/{symbol}/{timeframe}")]
         public async Task<List<DataPoint>> getComparisonData(string symbol, Timeframe timeframe)
         {
@@ -134,5 +136,7 @@ namespace FrontFinanceBackend.Controllers
             return dataPoints;
 
         }
+
+
     }
 }

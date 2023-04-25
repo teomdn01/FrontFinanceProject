@@ -1,0 +1,15 @@
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\bin\Debug\net6.0\Brokers.deps.json
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\bin\Debug\net6.0\Brokers.dll
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\bin\Debug\net6.0\Brokers.pdb
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\bin\Debug\net6.0\Core.dll
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\bin\Debug\net6.0\Core.pdb
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\obj\Debug\net6.0\Brokers.csproj.AssemblyReference.cache
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\obj\Debug\net6.0\Brokers.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\obj\Debug\net6.0\Brokers.AssemblyInfoInputs.cache
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\obj\Debug\net6.0\Brokers.AssemblyInfo.cs
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\obj\Debug\net6.0\Brokers.csproj.CoreCompileInputs.cache
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\obj\Debug\net6.0\Brokers.csproj.CopyComplete
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\obj\Debug\net6.0\Brokers.dll
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\obj\Debug\net6.0\refint\Brokers.dll
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\obj\Debug\net6.0\Brokers.pdb
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Brokers\obj\Debug\net6.0\ref\Brokers.dll

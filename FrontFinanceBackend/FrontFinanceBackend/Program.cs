@@ -1,3 +1,5 @@
+using System.Net;
+using System.Net.Security;
 using FrontFinanceBackend.Config;
 using FrontFinanceBackend.Models;
 using FrontFinanceBackend.Repository;
@@ -8,20 +10,48 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
+using Brokers.Coinbase;
+using Brokers.Coinbase.Models;
+using Core.Contracts;
+using Core.Logic.Services;
+using Brokers.Coinbase.Models;
+using Brokers.Coinbase.Services;
+using Brokers.InteractiveBrokers.Configuration;
+using Brokers.InteractiveBrokers.Services;
+using Core.Contracts.Adapters.InteractiveBrokers;
+using Org.Front.Core.Contracts.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 ConfigurationManager configuration = builder.Configuration;
+ServicePointManager.ServerCertificateValidationCallback += (sender, certificate, chain, sslPolicyErrors) =>
+{
+    return (sslPolicyErrors & SslPolicyErrors.RemoteCertificateNotAvailable) != SslPolicyErrors.RemoteCertificateNotAvailable;
+};
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddOptions();
 
 builder.Services.AddScoped<IUserRepo, UserRepo>();
 builder.Services.AddScoped<IStockDataRepo, StockDataRepo>();
 builder.Services.AddScoped<IStockBarRepo, StockBarRepo>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IMarketService, MarketService>();
+
+//Coinbase
+var configSection = configuration.GetSection(nameof(CoinbaseConfig));
+builder.Services.Configure<CoinbaseConfig>(configSection);
+builder.Services.AddHttpClientWithPolicies<ICoinbaseAuthService, CoinbaseAuthService, CoinbaseConfig>(configSection);
+builder.Services.AddScoped<IBrokerAuthService, BrokerAuthService>();
+
+configSection = configuration.GetSection(nameof(InteractiveBrokersConfig));
+builder.Services.Configure<InteractiveBrokersConfig>(configSection);
+builder.Services.AddHttpClientWithPolicies<IInteractiveBrokersTransactionService, InteractiveBrokersTransactionService, InteractiveBrokersConfig>(configSection);
+builder.Services.AddScoped<IInteractiveBrokersAuthService, InteractiveBrokersAuthService>();
+
+
 
 builder.Services.AddControllers().AddNewtonsoftJson();
 

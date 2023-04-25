@@ -1,0 +1,12 @@
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\bin\Debug\net6.0\Core.deps.json
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\bin\Debug\net6.0\Core.dll
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\bin\Debug\net6.0\Core.pdb
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.dll
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\refint\Core.dll
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.pdb
+D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\ref\Core.dll
