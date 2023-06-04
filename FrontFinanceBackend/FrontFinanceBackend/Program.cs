@@ -10,15 +10,30 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
+using Brokers.Alpaca.Configuration;
+using Brokers.Alpaca.Services;
 using Brokers.Coinbase;
 using Brokers.Coinbase.Models;
 using Core.Contracts;
 using Core.Logic.Services;
-using Brokers.Coinbase.Models;
 using Brokers.Coinbase.Services;
+using Brokers.Freedom.Configuration;
+using Brokers.Freedom.Services;
 using Brokers.InteractiveBrokers.Configuration;
 using Brokers.InteractiveBrokers.Services;
+using Brokers.Polygon.Configuration;
+using Brokers.Polygon.Services;
+using Brokers.Tradier.Configuration;
+using Brokers.Tradier.Services;
+using Brokers.Trading212.Configuration;
+using Brokers.Trading212.Services;
+using Core.Contracts.Adapters.Alpaca;
+using Core.Contracts.Adapters.Freedom;
 using Core.Contracts.Adapters.InteractiveBrokers;
+using Core.Contracts.Adapters.Polygon;
+using Core.Contracts.Adapters.Tradier;
+using Core.Contracts.Adapters.Trading212;
+using Org.Front.Core.Contracts.Adapters.Alpaca;
 using Org.Front.Core.Contracts.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -44,12 +59,54 @@ builder.Services.AddScoped<IMarketService, MarketService>();
 var configSection = configuration.GetSection(nameof(CoinbaseConfig));
 builder.Services.Configure<CoinbaseConfig>(configSection);
 builder.Services.AddHttpClientWithPolicies<ICoinbaseAuthService, CoinbaseAuthService, CoinbaseConfig>(configSection);
-builder.Services.AddScoped<IBrokerAuthService, BrokerAuthService>();
 
+//IB
 configSection = configuration.GetSection(nameof(InteractiveBrokersConfig));
 builder.Services.Configure<InteractiveBrokersConfig>(configSection);
 builder.Services.AddHttpClientWithPolicies<IInteractiveBrokersTransactionService, InteractiveBrokersTransactionService, InteractiveBrokersConfig>(configSection);
+builder.Services.AddHttpClientWithPolicies<IInteractiveBrokersMarketDataService, InteractiveBrokersMarketDataService, InteractiveBrokersConfig>(configSection);
 builder.Services.AddScoped<IInteractiveBrokersAuthService, InteractiveBrokersAuthService>();
+
+
+//Freedom
+builder.Services.AddHttpClientWithPolicies<IFreedomAuthService, FreedomAuthService, FreedomConfig>(configuration.GetSection(nameof(FreedomConfig)));
+builder.Services.AddHttpClientWithPolicies<IFreedomMarketDataService, FreedomMarketDataService, FreedomConfig>(configuration.GetSection(nameof(FreedomConfig)));
+
+//Tradier
+builder.Services.AddHttpClientWithPolicies<ITradierAuthService, TradierAuthService, TradierConfig>(configuration.GetSection(nameof(TradierConfig)));
+builder.Services.AddHttpClientWithPolicies<ITradierMarketDataService, TradierMarketDataService, TradierConfig>(configuration.GetSection(nameof(TradierConfig)));
+
+//Alpaca
+builder.Services.Configure<AlpacaConfig>(configuration.GetSection(nameof(AlpacaConfig)));
+builder.Services.AddScoped<IAlpacaMarketDataService, AlpacaMarketDataService>();
+builder.Services.AddScoped<IAlpacaTransactionService, AlpacaTransactionService>();
+builder.Services.AddHttpClient<IAlpacaAuthService, AlpacaAuthService>();
+
+//Trading212
+builder.Services.Configure<Trading212Config>(configuration.GetSection(nameof(Trading212Config)));
+builder.Services.AddHttpClientWithPolicies<ITrading212MarketDataService, Trading212MarketDataService, Trading212Config>(configuration.GetSection(nameof(Trading212Config)))
+    .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler()
+    {
+        AutomaticDecompression = DecompressionMethods.GZip,
+    });
+//builder.Services.AddScoped<ITrading212TransactionService, Trading212TransactionService>();
+builder.Services.AddHttpClientWithPolicies<ITrading212AuthService, Trading212AuthService, Trading212Config>(configuration.GetSection(nameof(Trading212Config)))
+    .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler()
+    {
+        AutomaticDecompression = DecompressionMethods.GZip,
+    });
+
+//Polygon
+builder.Services.Configure<PolygonConfig>(configuration.GetSection(nameof(PolygonConfig)));
+builder.Services.AddHttpClientWithPolicies<IPolygonFinancesService, PolygonFinancesService, PolygonConfig>(configuration.GetSection(nameof(PolygonConfig)))
+    .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler()
+    {
+        AutomaticDecompression = DecompressionMethods.GZip,
+    });
+
+//Broker Services
+builder.Services.AddScoped<IBrokerAuthService, BrokerAuthService>();
+builder.Services.AddScoped<IBrokerMarketDataService, BrokerMarketDataService>();
 
 
 

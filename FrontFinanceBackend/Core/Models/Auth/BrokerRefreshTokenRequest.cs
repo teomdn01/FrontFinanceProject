@@ -1,8 +1,6 @@
-﻿using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using Core.Models;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace Org.Front.Core.Contracts.Models.Brokers
+namespace Core.Models.Auth
 {
     public class BrokerRefreshTokenRequest : BrokerBaseAuthRequest
     {

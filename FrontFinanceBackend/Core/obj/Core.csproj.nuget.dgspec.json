@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\Core.csproj": {}
+    "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/Core.csproj": {}
   },
   "projects": {
-    "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\Core.csproj": {
+    "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\Core.csproj",
+        "projectUniqueName": "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\teo\\.nuget\\packages\\",
-        "outputPath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\obj\\",
+        "projectPath": "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/Core.csproj",
+        "packagesPath": "/Users/teomdn/.nuget/packages/",
+        "outputPath": "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\teo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/teomdn/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -61,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -70,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
         }
       }
     }

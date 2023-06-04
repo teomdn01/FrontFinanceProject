@@ -84,5 +84,6 @@
         public const string GetNftPositions = "get NFT positions";
         public const string GetOptionsPositions = "get options";
         public const string GetPriceInfo = "get price info";
+        public const string GetAnalysis = "analize financial statements";
     }
 }

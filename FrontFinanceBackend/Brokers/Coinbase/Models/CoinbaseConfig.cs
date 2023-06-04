@@ -5,7 +5,7 @@ namespace Brokers.Coinbase.Models
 {
     public class CoinbaseConfig : IHttpClientConfig, IHttpPolicyConfig
     {
-        private const string FrontUrl = "https://localhost:8080/";
+        private const string FrontUrl = "https://localhost:3000/";
         private const string DefaultBaseEndpoint = "https://api.coinbase.com/";
 
         private const int DefaultTimeoutInSeconds = 50;

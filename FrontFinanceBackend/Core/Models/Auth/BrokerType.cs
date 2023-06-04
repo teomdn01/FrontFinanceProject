@@ -5,5 +5,7 @@ public enum BrokerType
     Coinbase = 1,
     InteractiveBrokers = 2,
     Tradier = 3,
-    Freedom24 = 4
+    Freedom = 4,
+    Alpaca = 5,
+    Trading212 = 6
 }

@@ -61,19 +61,10 @@ public class BaseInteractiveBrokersService
 
     protected async Task<T> Execute<T>(string path, HttpMethod method, string operationName) where T : class
     {
-        Logger.LogInformation("SAL");
-        var handler = new HttpClientHandler();
+        Logger.LogInformation("BaseInteractiveBrokers execution starting...");
 
-        handler.ServerCertificateCustomValidationCallback += 
-            (sender, certificate, chain, errors) =>
-            {
-                return true;
-            };
-        var httpClient = new HttpClient(handler);
-        httpClient.BaseAddress = InteractiveBrokersConfig.BaseEndpoint;
-        
         var request = new HttpRequestMessage(method, path);
-        var response = await httpClient.SendAsync(request);
+        var response = await HttpClient.SendAsync(request);
         var content = await response.Content.ReadAsStringAsync();
         
         if (response.IsSuccessStatusCode)

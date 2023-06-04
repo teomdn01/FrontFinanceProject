@@ -1,0 +1,6 @@
+
+Xcsharpsquid:S3903"4Move 'Trading212AuthService' into a named namespace.(μÿ‚Ό8φ΅Ρ«1
+rcsharpsquid:S9271"ORename parameter 'baseRequest' to 'request' to match the interface declaration.(π”8κρά¬1
+wcsharpsquid:S927A"ORename parameter 'baseRequest' to 'request' to match the interface declaration.(Ψιιωÿÿÿÿ8λρά¬1
+Qcsharpsquid:S1481H"-Remove the unused local variable 'positions'.(©‰φΞ8λρά¬1
+Bcsharpsquid:S125P"Remove this commented out code.(Ϊ°ΰ¬8λρά¬1

@@ -10,4 +10,14 @@ public class InteractiveBrokersAuthService : IInteractiveBrokersAuthService
     {
         return LoginUrl;
     }
+
+    public Task<string> GetPositions()
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<string> GetBalance()
+    {
+        throw new NotImplementedException();
+    }
 }

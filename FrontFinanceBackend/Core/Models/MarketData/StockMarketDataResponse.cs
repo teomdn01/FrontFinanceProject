@@ -2,11 +2,7 @@
 
 public class StockMarketDataResponse
 {
-    public string Symbol { get; set; }
-    public string Name { get; set; }
-    public string? Exchange { get; set; }
-    public double MarketPrice { get; set; }
-    public long LastTradeTimestamp { get; set; }
-
-    public string Error { get; set; }
+    public string BrokerType { get; set; }
+    public List<StockMarketData> Data { get; set; }
+    public BrokerRequestStatus Status { get; set; }
 }

@@ -1,0 +1,6 @@
+
+Gcsharpsquid:S2933"#Make 'alpacaDataClient' 'readonly'.(ÂÐÇ®8¦˜ˆÿ‚1
+bcsharpsquid:S2259R"9'mostRecentStock' is null on at least one execution path.(Ôµ¢Ûüÿÿÿÿ8¦˜ˆÿ‚1
+\csharpsquid:S2259}"9'mostRecentStock' is null on at least one execution path.(âŽú28¦˜ˆÿ‚1
+ycsharpsquid:S4487"VRemove this unread private field '_userService' or refactor the code to use its value.(´Žû_8¦˜ˆÿ‚1
+Osecrets:S6290"6Make sure this AWS Secret Access Key is not disclosed.(í©ÏŽ

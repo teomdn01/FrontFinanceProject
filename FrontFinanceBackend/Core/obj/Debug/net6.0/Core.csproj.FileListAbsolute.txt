@@ -1,12 +1,24 @@
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\bin\Debug\net6.0\Core.deps.json
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\bin\Debug\net6.0\Core.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\bin\Debug\net6.0\Core.pdb
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\refint\Core.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\Core.pdb
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\Core\obj\Debug\net6.0\ref\Core.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/bin/Debug/net6.0/Core.deps.json
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/bin/Debug/net6.0/Core.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/bin/Debug/net6.0/Core.pdb
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/refint/Core.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.pdb
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/ref/Core.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/bin/Debug/net6.0/Core.deps.json
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/bin/Debug/net6.0/Core.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/bin/Debug/net6.0/Core.pdb
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/refint/Core.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/Core.pdb
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/obj/Debug/net6.0/ref/Core.dll

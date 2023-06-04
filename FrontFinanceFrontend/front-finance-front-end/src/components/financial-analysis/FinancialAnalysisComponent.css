@@ -1,0 +1,37 @@
+.green-row {
+    background-color: lightgreen;
+  }
+  
+  .red-row {
+    background-color: salmon;
+  }
+
+  .yellow-row {
+    background-color: lightgoldenrodyellow;
+  }
+  
+.table-analysis {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+/* .table-bordered th, .table-bordered td { border: 1px solid #27296d!important } */
+
+.custom-table {
+    border-collapse: collapse;
+    border: 1px solid #27296d;
+  }
+  
+  .custom-table thead th {
+    border: 1px solid #27296d;
+    padding: 8px;
+  }
+  
+  .custom-table tbody td {
+    border: 1px solid #27296d;
+    padding: 8px;
+  }
+  
+

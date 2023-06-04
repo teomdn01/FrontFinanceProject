@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "grUOPAThaRKN0k4F5sbJ+54/hlPfr15UCa7lRMKzIF5u9T5U5Eo/QTfWUa/EI1dsu1VyiOh0SYizI6u6nlAiWg==",
+  "dgSpecHash": "pS1kcJ3tI/h80c9tcXY7plhfEW0A5WhWpqhDNCZnyVWeQoMrcGc/sYIeyLSr3O2+vfGMRnweYeogvbqhL+6VjQ==",
   "success": true,
-  "projectFilePath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Core\\Core.csproj",
+  "projectFilePath": "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Core/Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.32\\microsoft.extensions.configuration.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.32\\microsoft.extensions.configuration.abstractions.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.32\\microsoft.extensions.configuration.binder.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.32\\microsoft.extensions.dependencyinjection.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.32\\microsoft.extensions.dependencyinjection.abstractions.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.http\\3.1.32\\microsoft.extensions.http.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.http.polly\\3.1.32\\microsoft.extensions.http.polly.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.logging\\3.1.32\\microsoft.extensions.logging.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.32\\microsoft.extensions.logging.abstractions.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.options\\3.1.32\\microsoft.extensions.options.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.32\\microsoft.extensions.primitives.3.1.32.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
-    "C:\\Users\\teo\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.configuration/3.1.32/microsoft.extensions.configuration.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.32/microsoft.extensions.configuration.abstractions.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.configuration.binder/3.1.32/microsoft.extensions.configuration.binder.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.32/microsoft.extensions.dependencyinjection.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.32/microsoft.extensions.dependencyinjection.abstractions.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.http/3.1.32/microsoft.extensions.http.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.http.polly/3.1.32/microsoft.extensions.http.polly.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.logging/3.1.32/microsoft.extensions.logging.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.32/microsoft.extensions.logging.abstractions.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.options/3.1.32/microsoft.extensions.options.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/microsoft.extensions.primitives/3.1.32/microsoft.extensions.primitives.3.1.32.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/polly/7.1.0/polly.7.1.0.nupkg.sha512",
+    "/Users/teomdn/.nuget/packages/polly.extensions.http/3.0.0/polly.extensions.http.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }

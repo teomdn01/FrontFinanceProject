@@ -1470,6 +1470,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Alpaca.Markets": "6.1.5",
           "Core": "1.0.0",
           "Microsoft.Extensions.Configuration": "3.1.32",
           "Microsoft.Extensions.DependencyInjection": "3.1.32",
@@ -3984,19 +3985,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\teo\\.nuget\\packages\\": {}
+    "/Users/teomdn/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\FrontFinanceBackend\\FrontFinanceBackend.csproj",
+      "projectUniqueName": "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/FrontFinanceBackend.csproj",
       "projectName": "FrontFinanceBackend",
-      "projectPath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\FrontFinanceBackend\\FrontFinanceBackend.csproj",
-      "packagesPath": "C:\\Users\\teo\\.nuget\\packages\\",
-      "outputPath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\FrontFinanceBackend\\obj\\",
+      "projectPath": "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/FrontFinanceBackend.csproj",
+      "packagesPath": "/Users/teomdn/.nuget/packages/",
+      "outputPath": "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\teo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/teomdn/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -4008,8 +4009,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Brokers\\Brokers.csproj": {
-              "projectPath": "D:\\semester-6\\proiect fintech\\FrontFinanceProject\\FrontFinanceBackend\\Brokers\\Brokers.csproj"
+            "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Brokers/Brokers.csproj": {
+              "projectPath": "/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/Brokers/Brokers.csproj"
             }
           }
         }
@@ -4103,7 +4104,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -4115,7 +4117,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
       }
     }
   }

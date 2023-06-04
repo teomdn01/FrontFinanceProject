@@ -6,4 +6,5 @@ public class BrokerBaseAuthRequest
 {
     [Required]
     public BrokerType Type { get; set; }
+    
 }

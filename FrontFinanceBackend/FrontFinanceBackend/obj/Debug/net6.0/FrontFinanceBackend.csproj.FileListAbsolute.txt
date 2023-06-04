@@ -1,184 +1,282 @@
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\appsettings.Development.json
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\appsettings.json
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.staticwebassets.runtime.json
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.exe
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.deps.json
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.runtimeconfig.json
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.pdb
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.csproj.AssemblyReference.cache
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.GeneratedMSBuildEditorConfig.editorconfig
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.AssemblyInfoInputs.cache
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.AssemblyInfo.cs
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.csproj.CoreCompileInputs.cache
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.MvcApplicationPartsAssemblyInfo.cache
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\staticwebassets.build.json
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\staticwebassets.development.json
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\scopedcss\bundle\FrontFinanceBackend.styles.css
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\refint\FrontFinanceBackend.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.pdb
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.genruntimeconfig.cache
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\ref\FrontFinanceBackend.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.MvcApplicationPartsAssemblyInfo.cs
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\EntityFramework.SqlServer.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\EntityFramework.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Humanizer.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\AspNetCore.EntityFrameworkConfig.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Newtonsoft.Json.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.CodeDom.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Data.SqlClient.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.csproj.CopyComplete
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Alpaca.Markets.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Polly.dll
-D:\semester-5\FrontFinance\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.IO.Pipelines.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\appsettings.Development.json
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\appsettings.json
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.staticwebassets.runtime.json
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.exe
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\TwoCaptcha.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Alpaca.Markets.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\EntityFramework.SqlServer.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\EntityFramework.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\HtmlAgilityPack.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Humanizer.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Extensions.Http.Polly.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\AspNetCore.EntityFrameworkConfig.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Newtonsoft.Json.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Polly.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Polly.Extensions.Http.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.CodeDom.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Data.SqlClient.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.IO.Pipelines.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Brokers.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Core.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Brokers.pdb
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Core.pdb
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.csproj.AssemblyReference.cache
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.GeneratedMSBuildEditorConfig.editorconfig
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.AssemblyInfoInputs.cache
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.AssemblyInfo.cs
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.csproj.CoreCompileInputs.cache
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.MvcApplicationPartsAssemblyInfo.cs
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.MvcApplicationPartsAssemblyInfo.cache
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\staticwebassets.build.json
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\staticwebassets.development.json
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\scopedcss\bundle\FrontFinanceBackend.styles.css
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.csproj.CopyComplete
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\refint\FrontFinanceBackend.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.pdb
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.deps.json
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.runtimeconfig.json
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\FrontFinanceBackend.pdb
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\FrontFinanceBackend.genruntimeconfig.cache
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\obj\Debug\net6.0\ref\FrontFinanceBackend.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\Toolbelt.Blazor.HttpClientInterceptor.dll
-D:\semester-6\proiect fintech\FrontFinanceProject\FrontFinanceBackend\FrontFinanceBackend\bin\Debug\net6.0\ModernHttpClient.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/appsettings.Development.json
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/appsettings.json
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.staticwebassets.runtime.json
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.exe
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.deps.json
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.runtimeconfig.json
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.pdb
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.csproj.AssemblyReference.cache
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.AssemblyInfoInputs.cache
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.AssemblyInfo.cs
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.csproj.CoreCompileInputs.cache
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.MvcApplicationPartsAssemblyInfo.cache
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/staticwebassets.build.json
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/staticwebassets.development.json
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/scopedcss/bundle/FrontFinanceBackend.styles.css
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/refint/FrontFinanceBackend.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.pdb
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.genruntimeconfig.cache
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/ref/FrontFinanceBackend.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.MvcApplicationPartsAssemblyInfo.cs
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/EntityFramework.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Humanizer.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/AspNetCore.EntityFrameworkConfig.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Newtonsoft.Json.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.CodeDom.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Data.SqlClient.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.csproj.CopyComplete
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Alpaca.Markets.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Polly.dll
+D:/semester-5/FrontFinance/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.IO.Pipelines.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/appsettings.Development.json
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/appsettings.json
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.staticwebassets.runtime.json
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.exe
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/TwoCaptcha.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Alpaca.Markets.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/EntityFramework.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/HtmlAgilityPack.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Humanizer.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Http.Polly.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/AspNetCore.EntityFrameworkConfig.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Newtonsoft.Json.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Polly.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Polly.Extensions.Http.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.CodeDom.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Data.SqlClient.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.IO.Pipelines.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Brokers.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Core.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Brokers.pdb
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Core.pdb
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.csproj.AssemblyReference.cache
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.AssemblyInfoInputs.cache
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.AssemblyInfo.cs
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.csproj.CoreCompileInputs.cache
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.MvcApplicationPartsAssemblyInfo.cs
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.MvcApplicationPartsAssemblyInfo.cache
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/staticwebassets.build.json
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/staticwebassets.development.json
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/scopedcss/bundle/FrontFinanceBackend.styles.css
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.csproj.CopyComplete
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/refint/FrontFinanceBackend.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.pdb
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.deps.json
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.runtimeconfig.json
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.pdb
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.genruntimeconfig.cache
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/ref/FrontFinanceBackend.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.JSInterop.WebAssembly.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Toolbelt.Blazor.HttpClientInterceptor.dll
+D:/semester-6/proiect fintech/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/ModernHttpClient.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/appsettings.Development.json
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/appsettings.json
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.staticwebassets.runtime.json
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.deps.json
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.runtimeconfig.json
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/FrontFinanceBackend.pdb
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/TwoCaptcha.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Alpaca.Markets.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/EntityFramework.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/HtmlAgilityPack.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Humanizer.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Http.Polly.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.JSInterop.WebAssembly.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/ModernHttpClient.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/AspNetCore.EntityFrameworkConfig.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Polly.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Polly.Extensions.Http.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.CodeDom.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Toolbelt.Blazor.HttpClientInterceptor.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Brokers.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Core.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Brokers.pdb
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/bin/Debug/net6.0/Core.pdb
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.csproj.AssemblyReference.cache
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.AssemblyInfoInputs.cache
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.AssemblyInfo.cs
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.csproj.CoreCompileInputs.cache
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/staticwebassets.build.json
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/staticwebassets.development.json
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/scopedcss/bundle/FrontFinanceBackend.styles.css
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.csproj.CopyComplete
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/refint/FrontFinanceBackend.dll
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.pdb
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/FrontFinanceBackend.genruntimeconfig.cache
+/Users/teomdn/workspace/licenta/FrontFinanceProject/FrontFinanceBackend/FrontFinanceBackend/obj/Debug/net6.0/ref/FrontFinanceBackend.dll

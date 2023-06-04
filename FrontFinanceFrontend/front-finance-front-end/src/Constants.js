@@ -34,8 +34,44 @@ export const MenuItemsLoggedIn = [
         cName: 'nav-links'
     },
     {
+        title: 'Brokers Data',
+        url: '/brokers',
+        cName: 'nav-links'
+    },
+    {
+        title: 'Financial Analysis',
+        url: '/analysis',
+        cName: 'nav-links'
+    },
+    {
         title: 'Logout',
         url: '/logout',
         cName: 'nav-links'
     }
 ]
+
+export const BrokerTypes = [
+    {
+        name: "Alpaca"
+    },
+    {
+        name: "Freedom"
+    },
+    {
+        name: "Tradier"
+    },
+    {
+        name: "Trading212"
+    },
+    {
+        name: "Coinbase"
+    }
+]
+
+export const BrokerTypeEnum = {
+	Alpaca: "Alpaca",
+	Freedom24: "Freedom",
+	Tradier: "Tradier",
+	Trading212: "Trading212",
+    Coinbase: "Coinbase"
+}
